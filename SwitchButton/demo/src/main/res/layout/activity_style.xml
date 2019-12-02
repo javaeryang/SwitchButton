@@ -307,6 +307,13 @@
                 android:layout_height="wrap_content"
                 android:checked="true"
                 app:kswTintColor="#0E5AA4"/>
+            <com.kyleduo.switchbutton.SwitchButton
+                android:id="@+id/sb_tint_color_3"
+                style="@style/SwitchButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                app:kswTintColor="#03a9f4"/>
         </LinearLayout>
 
         <TextView
